@@ -1,0 +1,34 @@
+body {
+    background-image: url(../imagens/webtext.jpg);
+    background-size: auto;
+    font-family: Arial;
+    height: 100vh;
+}
+
+.menu {
+    background-color: #ffffff;
+}
+
+.menu ul {
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li {
+    list-style: none;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+.site-subtitle,
+.site-title {
+    color: whitesmoke;
+    text-align: center;
+}
+
+.site-subtitle {
+    font-style: italic;
+}
